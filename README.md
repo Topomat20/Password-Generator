@@ -24,13 +24,13 @@ The user can use this webpage to generate a password if needed. The user has an 
 * WHEN the password is generated
 * THEN the password is either displayed in an alert or written to the page
 ## Help
-
+None
 ## Authors
-* Kayla De La Cruz
-* https://github.com/Topomat20
+Contributors names and contact info
+[Topomat20](https://github.com/Topomat20)
 ## Version History
 * 0.1
     * Initial Release
 ## License
-
+None
 ## Acknowledgments
