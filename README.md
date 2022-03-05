@@ -6,7 +6,7 @@ The user can use this webpage to generate a password if needed. The user has an 
 ### Defendencies
 * None
 ### Installing
-* No installation required.
+* https://topomat20.github.io/Password-Generator-HW/
 ### Executing program
 * GIVEN I need a new, secure password
 * WHEN I click the button to generate a password
